@@ -17,14 +17,13 @@ It’s built with modularity in mind, so you can plug in your own storage backen
 - Composite storage (route folders to different backends)
 - Designed using .NET best practices and patterns
 
-## 🚀 Getting Started
-
-Add the library to your .NET project and create an `FtpServer` instance.  
-You can start a server with just a few lines of code.
-
-## 👷 Made By Students
+## 👷 Who made this?
 
 This project was built as part of a university course, with real teamwork, feedback, and lots of iteration. We wanted to build something that actually works – and teaches us something along the way.
+
+## 📄 Documentation
+
+Full documentation is available [here](docs/ftp-server-guide.pdf).
 
 ---
 
